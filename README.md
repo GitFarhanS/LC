@@ -5,11 +5,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GitFarhanS/LC/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/GitFarhanS/LC/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/GitFarhanS/LC/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/GitFarhanS/LC/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GitFarhanS/LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
-| [0128-longest-consecutive-sequence](https://github.com/GitFarhanS/LC/tree/master/0128-longest-consecutive-sequence) |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/GitFarhanS/LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/GitFarhanS/LC/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/GitFarhanS/LC/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/GitFarhanS/LC/tree/master/0347-top-k-frequent-elements) |
@@ -20,7 +19,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/GitFarhanS/LC/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/GitFarhanS/LC/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GitFarhanS/LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
-| [0128-longest-consecutive-sequence](https://github.com/GitFarhanS/LC/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/GitFarhanS/LC/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GitFarhanS/LC/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/GitFarhanS/LC/tree/master/0347-top-k-frequent-elements) |
@@ -67,7 +65,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/GitFarhanS/LC/tree/master/0098-validate-binary-search-tree) |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/GitFarhanS/LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GitFarhanS/LC/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GitFarhanS/LC/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GitFarhanS/LC/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -103,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/GitFarhanS/LC/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/GitFarhanS/LC/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/GitFarhanS/LC/tree/master/0242-valid-anagram) |
 | [0572-subtree-of-another-tree](https://github.com/GitFarhanS/LC/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
@@ -112,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/GitFarhanS/LC/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/GitFarhanS/LC/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/GitFarhanS/LC/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GitFarhanS/LC/tree/master/0242-valid-anagram) |
@@ -136,12 +135,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/GitFarhanS/LC/tree/master/0347-top-k-frequent-elements) |
-## Union Find
-|  |
-| ------- |
-| [0128-longest-consecutive-sequence](https://github.com/GitFarhanS/LC/tree/master/0128-longest-consecutive-sequence) |
 ## Two Pointers
 |  |
 | ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/GitFarhanS/LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0015-3sum](https://github.com/GitFarhanS/LC/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/GitFarhanS/LC/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
