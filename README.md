@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/GitFarhanS/LC/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/GitFarhanS/LC/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/GitFarhanS/LC/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/GitFarhanS/LC/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GitFarhanS/LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GitFarhanS/LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GitFarhanS/LC/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/GitFarhanS/LC/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/GitFarhanS/LC/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GitFarhanS/LC/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GitFarhanS/LC/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/GitFarhanS/LC/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/GitFarhanS/LC/tree/master/0074-search-a-2d-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
