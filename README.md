@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/GitFarhanS/LC/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/GitFarhanS/LC/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/GitFarhanS/LC/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/GitFarhanS/LC/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/GitFarhanS/LC/tree/master/0883-car-fleet) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GitFarhanS/LC/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GitFarhanS/LC/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GitFarhanS/LC/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0792-binary-search](https://github.com/GitFarhanS/LC/tree/master/0792-binary-search) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
