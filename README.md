@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/GitFarhanS/LC/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/GitFarhanS/LC/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/GitFarhanS/LC/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GitFarhanS/LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/GitFarhanS/LC/tree/master/0199-binary-tree-right-side-view) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/GitFarhanS/LC/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/GitFarhanS/LC/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/GitFarhanS/LC/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GitFarhanS/LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/GitFarhanS/LC/tree/master/0199-binary-tree-right-side-view) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/GitFarhanS/LC/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/GitFarhanS/LC/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/GitFarhanS/LC/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GitFarhanS/LC/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GitFarhanS/LC/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/GitFarhanS/LC/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/GitFarhanS/LC/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/GitFarhanS/LC/tree/master/0199-binary-tree-right-side-view) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GitFarhanS/LC/tree/master/1544-count-good-nodes-in-binary-tree) |
