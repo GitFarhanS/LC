@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GitFarhanS/LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0217-contains-duplicate](https://github.com/GitFarhanS/LC/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/GitFarhanS/LC/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/GitFarhanS/LC/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GitFarhanS/LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0217-contains-duplicate](https://github.com/GitFarhanS/LC/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GitFarhanS/LC/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/GitFarhanS/LC/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GitFarhanS/LC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/GitFarhanS/LC/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/GitFarhanS/LC/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GitFarhanS/LC/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -103,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/GitFarhanS/LC/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GitFarhanS/LC/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/GitFarhanS/LC/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -111,4 +116,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/GitFarhanS/LC/tree/master/0238-product-of-array-except-self) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/GitFarhanS/LC/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/GitFarhanS/LC/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/GitFarhanS/LC/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
