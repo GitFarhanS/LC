@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/GitFarhanS/LC/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GitFarhanS/LC/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -166,4 +167,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/GitFarhanS/LC/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/GitFarhanS/LC/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
