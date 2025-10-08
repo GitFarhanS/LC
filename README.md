@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GitFarhanS/LC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/GitFarhanS/LC/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/GitFarhanS/LC/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/GitFarhanS/LC/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/GitFarhanS/LC/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/GitFarhanS/LC/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/GitFarhanS/LC/tree/master/0792-binary-search) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GitFarhanS/LC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GitFarhanS/LC/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GitFarhanS/LC/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/GitFarhanS/LC/tree/master/0287-find-the-duplicate-number) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GitFarhanS/LC/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/GitFarhanS/LC/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/GitFarhanS/LC/tree/master/0907-koko-eating-bananas) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GitFarhanS/LC/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/GitFarhanS/LC/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/GitFarhanS/LC/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/GitFarhanS/LC/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/GitFarhanS/LC/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
@@ -221,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/GitFarhanS/LC/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/GitFarhanS/LC/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/GitFarhanS/LC/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/GitFarhanS/LC/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
